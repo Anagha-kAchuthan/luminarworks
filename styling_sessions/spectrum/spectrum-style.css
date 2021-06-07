@@ -1,0 +1,137 @@
+body{
+    background-color:black
+}
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+.main-header{
+    font-family: 'Squada One', cursive;
+    color:white;
+    text-align:center;
+    margin-bottom: 20px;
+}
+.spectrum{
+    width:120px;
+    height: 150px;
+    border: 1px;
+    float: left;
+   
+
+    margin-bottom: 40px;
+}
+.s{
+background-color: gray;
+margin-right: 5px;
+    margin-left: 332px;
+
+}
+.sp{
+    background-color: rgba(0, 128, 0, 0.671);
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.spe{
+    background-color: green;
+    margin-right: 5px;
+    margin-left: 5px;
+    }
+.spec{background-color: rgb(51, 179, 46);
+    margin-right: 5px;
+    margin-left: 5px;
+        }
+.spect{
+     background-color: rgb(176, 180, 178);
+     margin-right: 332px;
+    margin-left: 5px;
+}
+.doubt{
+    width:120px;
+    height: 150px;
+    border: 1px ;
+    float: left;
+   
+
+    margin-bottom:40px;
+}
+.a{
+background-color: rgb(243, 162, 40);
+margin-right: 5px;
+    margin-left: 205px;
+
+}
+.b{
+    background-color: rgba(211, 52, 91, 0.952);
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.c{
+    background-color: rgb(161, 96, 147);
+    margin-right: 5px;
+    margin-left: 5px;
+    }
+.d{background-color: rgb(113, 3, 146);
+    margin-right: 5px;
+    margin-left: 5px;
+        }
+.e{
+     background-color: rgba(55, 1, 100, 0.466);
+     margin-right: 5px;
+    margin-left: 5px;
+}
+.f{background-color: rgba(51, 2, 47, 0.918);
+    margin-right: 5px;
+    margin-left: 5px;
+        }
+.g{
+     background-color:grey;
+     margin-right: 205px;
+    margin-left: 5px;
+}
+    
+.abc{
+    width:120px;
+    height: 150px;
+    border: 1px;
+    float: left;
+   
+}
+.h{
+background-color: rgb(7, 231, 247);
+margin-right: 5px;
+    margin-left: 80px;
+
+}
+.i{
+    background-color: rgba(52, 211, 150, 0.952);
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.j{
+    background-color: rgb(231, 162, 12);
+    margin-right: 5px;
+    margin-left: 5px;
+    }
+.k{background-color: rgba(230, 2, 135, 0.89);
+    margin-right: 5px;
+    margin-left: 5px;
+        }
+.l{
+     background-color: rgba(92, 41, 131, 0.466);
+     margin-right: 5px;
+    margin-left: 5px;
+}
+.m{background-color: rgb(7, 231, 247);
+    margin-right: 5px;
+    margin-left: 5px;
+        }
+.n{
+     background-color:rgb(10, 141, 113);
+     margin-right: 5px;
+    margin-left: 5px;
+}
+.o{background-color: rgba(125, 72, 168, 0.918);
+    margin-right: 5px;
+    margin-left: 5px;
+        }
+.p{
+     background-color:rgb(97, 4, 109);
+     margin-right: 80px;
+    margin-left: 5px;

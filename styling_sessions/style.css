@@ -1,0 +1,43 @@
+body{
+    background-color:black
+}
+.main-header{
+    color:white;
+    text-align:center;
+    text-decoration:underline;
+}
+.state{
+    border-style:solid;
+    border-color:black;
+    border-width:1px;
+    color:white;
+    text-align: center;
+    background-color:tomato;
+    width: 400px;
+    height: 250px;
+    float:left;
+
+}
+.tvm{
+    border: 1px solid white;
+    background-color: turquoise;
+}
+.kn{
+    border: 1px solid white;
+    background-color: gray;
+}
+.ko{
+    border: 1px solid white;
+    background-color: greenyellow;
+}
+.ma{
+    border: 1px solid white;
+    background-color: orchid;
+}
+.va{
+    border: 1px solid white;
+    background-color: blue;
+}
+.ko{
+    border: 1px solid white;
+    background-color: greenyellow;

@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+
+.main-head{
+font-family: 'Odibee Sans', cursive;
+text-align: center;
+}
+.movie{
+    border: 1px solid;
+    width: 24%;
+    float:left;
+}

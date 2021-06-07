@@ -1,0 +1,16 @@
+div{
+    width: 300px;
+    height: 100px;
+    border:1px solid black;
+}
+.section1{
+    background-color: blueviolet;
+    position:absolute;
+    top:300px;
+}
+.section2{
+    background-color: goldenrod;
+}
+.section3{
+    background-color: royalblue;
+}

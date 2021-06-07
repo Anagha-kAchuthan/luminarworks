@@ -1,0 +1,55 @@
+.parent{
+    width: 800px;
+    height: 200px;
+    background-color:greenyellow ;
+    border: 1px royalblue;
+    position: relative; 
+}
+.child1,.child2,.child3{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+.child1{
+    background-color:cyan;
+    position:absolute;
+    left: 10px;
+    top:0px;
+
+    
+}
+.child2{
+    background-color:blue;
+    position:absolute;
+    left:130px;
+    top:0;
+    
+
+}
+.child3{
+    background-color:red;
+    position:absolute;
+    left:250px;
+    top:0;
+
+
+}
+.fixed-div{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    position: fixed;
+    left: 40%;
+    top:0;
+
+}
+.stick{
+    width: 200px;
+    height: 200px;
+    border:1px;
+    background-color:magenta ;
+    position: sticky;
+    position: -webkit-sticky;
+    top:0;
+    
+}
