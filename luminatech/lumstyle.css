@@ -51,16 +51,16 @@ cardlums{
 }
 .footer-div{
 
-  background-color:#27033a;
+  background-color:#1d0429;
   border: 1px solid black;
   width:100%;
-  height:400px;
+  height:420px;
 }
 .foot1{
-  background-color:#27033a;
+  background-color:#1d0429;
   
   border: 1px;
-  margin-top: 90px;
+  margin-top: 70px;
   margin-left: 20px;
   margin-right: 20px;
   color: white;
@@ -69,29 +69,60 @@ cardlums{
   float: left;
 }
 .foot2{
-  background-color:#27033a;
+  background-color:#1d0429;
   border: 1px;
   width: 23%;
-  margin-top: 40px;
+  margin-top: 70px;
   margin-left: 20px;
   color: white;
   float: left;
 }
 .foot3{
-  
+  background-color:#1d0429;
   border: 1px;
   width: 23%;
   color: white;
   float: left;
   margin-left: 20px;
-  margin-top: 40px;
+  margin-top: 70px;
 }
 .foot4{
-
+  background-color:#1d0429;
   border: 1px;
   width: 23%;
   color: white;
   float: left;
-  margin-top: 40px;
+  margin-top: 70px;
   margin-left: 20px;
+}
+.wdiv{
+  border: 1px;
+  background-color:white;
+  width: 100%;
+  height: 150px;
+  margin-top: 10px;
+  
+  
+  color: #5e068a;
+}
+ 
+.final-div{
+  border: 1px;
+  background-color: white;
+  width: 100%;
+  height: 50px;
+  margin-top: 10px;
+  float: left;
+}
+.cdiv{
+  border: 1px;
+  background-color: white;
+  float: left;
+  margin-left: 20px;
+}
+.cdiv-1{
+  border: 1px;
+  background-color: white;
+  float: left;
+  margin-left: 580px;
 }
