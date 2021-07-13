@@ -21,7 +21,7 @@ withdrawal(amt){
 
 }
 
-balanc(){
+balance(){
     this.balance-=amt
     console.log(`${this.balance}`);
 
@@ -35,5 +35,5 @@ var obj1=new Bank()
 obj1.createAccount(10989,"shan",67676)
 obj1.deposit(45)
 obj1.withdrawal(10)
-obj1.balanc()
+obj1.balance()
 printBank()

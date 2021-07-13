@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>javascriptdom</h1>
+    <h1 id="htwo">DocumentObjectModel</h1>
+
+    <h2>DocumentObjectMethods</h2>
+
+    <ul>
+        <li class="lit">document.getElementByTadName()</li>
+        <li class="lit">document.getElementByTadName()</li>
+        <li class="lit">document.getElementByTadName()</li>
+    </ul>
+    
+</body>
+<script>
+var hones=document.getElementsByTagName("h1");//used to select elements using tag
+for(let tag of hones){
+    tag.style.color="red";
+
+}
+var hto=document.getElementById("htwo");//used to select perticular element using id
+hto.style.color="cyan"
+
+var lis=document.getElementsByClassName("lit");//used to select elements using class name
+for(let tag of lis){
+    tag.style.color="blue";
+
+}
+var htwoo=document.querySelector("h2")
+htwoo.innerHTML="<em>DocumentObjectMethods</em>";
+htwoo.style.color="greay";
+</script>
+</html>
